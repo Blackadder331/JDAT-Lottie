@@ -1,5 +1,5 @@
 var animation = bodymovin.loadAnimation({
-    container: document.getElementById('bm'),
+    container: document.getElementById('logo-animate'),
     renderer: 'svg',
     loop: false,
     autoplay: true,
